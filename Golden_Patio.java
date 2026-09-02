@@ -12,6 +12,5 @@ public class Golden_Patio {
 			a=b;
 			b=c;
 		}
-		System.out.print("출력종료");
 	}
 }
